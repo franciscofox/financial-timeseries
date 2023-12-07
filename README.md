@@ -6,6 +6,7 @@ This repository contains the code and documentation for the programming challeng
 1. **Database Schema and Setup Documentation:**
    - `schema/`: Contains SQL scripts for setting up the database schema.
    - `Setup.pdf`: Documentation on setting up PostgreSQL and TimescaleDB, crucial for running the provided scripts.
+   - `Requirements.txt`: File containing required Python packages for running the scripts.
 
 2. **Data Ingestion and Querying:**
    - `ingestion.py`: Python script for ingesting data into the database.
@@ -20,7 +21,6 @@ This repository contains the code and documentation for the programming challeng
 
 4. **Optimization and Scaling:**
    - `Scaling Strategy.pdf`: A short report detailing optimization strategies and scaling considerations.
-   - `Requirements.txt`: File containing required Python packages for running the scripts.
 
 5. **Data Files:**
    - `data/data.zip`: Compressed file containing CSVs with the financial time-series data.
