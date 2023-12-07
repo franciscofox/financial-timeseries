@@ -15,7 +15,7 @@ FROM es
 GROUP BY day
 ORDER BY day;
 
--- Identify Days with Unusual Volume Spikes of +100% increase
+-- Identify Days with Unusual Volume Spikes
 SELECT
     time_bucket('1 day', timestamp) AS day,
     MAX(volume) AS max_volume
