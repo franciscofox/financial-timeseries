@@ -23,7 +23,7 @@ This repository contains the code and documentation for the programming challeng
    - `Requirements.txt`: File containing required Python packages for running the scripts.
 
 5. **Data Files:**
-   - `data/`: Directory containing CSV files with the financial time-series data.
+   - `data/data.zip`: Compressed file containing CSVs with the financial time-series data.
      - `bz.csv`: Data related to "bz."
      - `es.csv`: Data related to "es."
      - `trades.csv`: General trading data.
