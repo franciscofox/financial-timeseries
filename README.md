@@ -1,5 +1,5 @@
 # Blueprint - Challenge
-This repository contains the code and documentation for the programming challenge on optimizing and scaling a financial time-series database.
+This repository contains the code and documentation for the problem on optimizing and scaling a financial time-series database.
 
 ## Contents
 
