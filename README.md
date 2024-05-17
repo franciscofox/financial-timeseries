@@ -1,4 +1,4 @@
-# Blueprint - Challenge
+# Financial Time Series Project
 This repository contains the code and documentation for the problem on optimizing and scaling a financial time-series database.
 
 ## Contents
